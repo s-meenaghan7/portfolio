@@ -1320,6 +1320,8 @@ input, select, textarea {
 				padding: 3rem 2rem;
 				max-height: 40rem;
 				overflow: hidden;
+				margin-left: 20%;
+				margin-right: 20%;
 			}
 
 				#header .content .inner > :last-child {
