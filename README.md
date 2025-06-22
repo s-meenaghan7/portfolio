@@ -2,11 +2,10 @@
 
 <a href="https://www.seanmeenaghan.com" target="_blank">https://www.seanmeenaghan.com/</a>
 
-This is the source code for my personal website.
+This is the source code for my (legacy) personal website.
 The design of the site is based on a template sourced from html5up.net.
-The content additions to the website are my own, of course.
-Using a template was a choice I made so that I could quickly create an attractive and responsive website to introduce myself from.
-- _Update June 2025: I would like to update this site in the near future, deprecating the template and making this a truly custom creation of my own._ 
+
+🚧 **_This site is currently under re-construction... stay tuned!_** 🚧
 
 I wanted to create a website for myself where I could give visitors a more in-depth overview of who I am that a resume cannot, and links to other social media such as [my LinkedIn](https://linkedin.com/in/seanmeenaghan/) and GitHub. I think having a personal website created from scratch is fitting for any software engineer, even more backend systems-focused engineers such as myself!.
 
